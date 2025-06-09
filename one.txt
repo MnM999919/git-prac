@@ -2,4 +2,6 @@ LINE ONE
 LINE TWO
 LINE THREE
 
+new_branch 
+
 still in master as i havent switched to new_branch
